@@ -13,10 +13,10 @@
 </div>
 
 ---
-👋 Bonjour ! Je me présente, **Baptiste Didier**, 18 ans, intéressé depuis petit à l'informatique, je me spécialise dans le développement informatique en tant qu'étudiant en première année de BUT Informatique à Belfort au sein de L'IUT Nord Franche Comté. 
+👋 Bonjour ! Je me présente, **Baptiste Didier**, 19 ans, intéressé depuis petit à l'informatique, je me spécialise dans le développement informatique en tant qu'étudiant en première année de BUT Informatique à Belfort au sein de L'IUT Nord Franche Comté. 
 
 💡 Voici quelques infos sur moi :
-- 🌱 **En apprentissage** : Actuellement, j'approfondis mes compétences en **Python avancé**, **Java**, et en **développement full-stack**.
+- 🌱 **En apprentissage** : Actuellement, j'approfondis mes compétences en **Python**, **Java**, **C**, **C#** et en **développement web**.
 - ⚡ **Intérêts** : Développement Web, Programmation Système, Développement Logiciel, Bases de Données.
 
 ---
